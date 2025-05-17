@@ -13,7 +13,6 @@
 *MENTOR:* NEELA SANTOSH  
 
 
-
 ## DESCRIPTION:
 
 Recommendation systems have become a cornerstone in modern digital experiences, helping users discover products, content, and services tailored to their preferences. From suggesting movies on Netflix to products on Amazon, these systems improve user engagement, satisfaction, and retention. In this internship project, we focus on building a **Recommendation System using Collaborative Filtering or Matrix Factorization** techniques.
