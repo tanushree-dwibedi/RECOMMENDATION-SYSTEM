@@ -64,4 +64,6 @@ By the end of this notebook, we successfully implement a recommendation pipeline
 
 #OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/2c0f3587-a760-4174-b970-4843ef5d4a89)
+![Image](https://github.com/user-attachments/assets/304a57d4-f746-4c89-a28d-490c125d789b)
+![Image](https://github.com/user-attachments/assets/2110d86b-eb21-4d02-89b2-6f12ffebe44a)
